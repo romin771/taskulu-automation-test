@@ -1,0 +1,290 @@
+05/29/2020 02:23:36 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/29/2020 02:23:36 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/29/2020 02:23:36 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/29/2020 02:23:36 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/29/2020 02:23:36 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/29/2020 02:23:36 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Locator type //div[@class='user-avatar has-chat-status default text'] not correct/supported
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Element not found with locator: xpath and  locatorType: //div[@class='user-avatar has-chat-status default text']
+05/30/2020 12:18:30 PM - mySeleniumDriver - INFO: Element not found
+05/30/2020 12:20:03 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:20:03 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:20:03 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:20:04 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:20:04 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:20:04 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:20:04 PM - mySeleniumDriver - INFO: Locator type //div[@class='user-avatar has-chat-status default text'] not correct/supported
+05/30/2020 12:20:04 PM - mySeleniumDriver - INFO: Element not found with locator: xpath and  locatorType: //div[@class='user-avatar has-chat-status default text']
+05/30/2020 12:20:04 PM - mySeleniumDriver - INFO: Element not found
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Locator type //div[@class='user-avatar has-chat-status default text'] not correct/supported
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Element not found with locator: xpath and  locatorType: //div[@class='user-avatar has-chat-status default text']
+05/30/2020 12:20:24 PM - mySeleniumDriver - INFO: Element not found
+05/30/2020 12:21:07 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Locator type //div[@class='user-avatar has-chat-status default text'] not correct/supported
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Element not found with locator: xpath and  locatorType: //div[@class='user-avatar has-chat-status default text']
+05/30/2020 12:21:08 PM - mySeleniumDriver - INFO: Element not found
+05/30/2020 12:23:51 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:23:51 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:23:51 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:23:51 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:23:51 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:23:52 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:23:56 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/30/2020 12:23:56 PM - mySeleniumDriver - INFO: Element Found
+05/30/2020 12:47:05 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:47:05 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:47:05 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:47:05 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:47:05 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:47:05 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:47:06 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/30/2020 12:47:06 PM - mySeleniumDriver - INFO: Element Found
+05/30/2020 12:47:11 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/30/2020 12:47:11 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/30/2020 12:47:11 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/30/2020 12:47:11 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/30/2020 12:47:11 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/30/2020 12:47:12 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/30/2020 12:47:15 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/30/2020 12:47:15 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:21:24 PM - mySeleniumDriver - INFO: Element not found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:21:24 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:21:28 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:21:28 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:21:32 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:21:32 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:21:32 PM - mySeleniumDriver - INFO: Element not found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:21:32 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Element not found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Element not found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:21:37 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Element not found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Element not found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Element not found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:21:53 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Element not found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Element not found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:21:58 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:22:16 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:22:16 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:22:16 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:22:16 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:22:16 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:22:16 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:22:17 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:22:17 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:22:22 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:22:22 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:22:22 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:22:22 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:22:22 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:22:22 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:22:26 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:22:26 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:23:24 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:23:24 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:23:24 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:23:24 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:23:24 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:23:24 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:23:25 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:23:25 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:24:13 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:24:13 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:24:13 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:24:13 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:24:13 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:24:14 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:24:14 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:24:14 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:27:06 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:27:06 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:27:06 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:27:07 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:27:07 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:27:07 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:27:07 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:27:07 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:27:12 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:27:12 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:27:12 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:27:12 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:27:12 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:27:12 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:27:16 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:27:16 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:29:08 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:29:08 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:29:08 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:29:08 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:29:08 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:29:09 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:29:09 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:29:09 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:29:58 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:29:59 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:30:04 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:30:04 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:30:04 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:30:04 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:30:04 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:30:05 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:30:09 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:30:09 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:30:37 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:30:37 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:30:37 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:30:37 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:30:37 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:30:37 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:30:38 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:30:38 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:30:43 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:30:43 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:30:43 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:30:43 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:30:43 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:30:43 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:30:47 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:30:47 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:31:24 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:31:24 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:31:24 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:31:24 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:31:24 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:31:25 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:31:25 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:31:25 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:34:04 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:34:04 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:34:04 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:34:04 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:34:05 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:34:06 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:36:31 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:36:31 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:36:31 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:36:31 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:36:49 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:36:50 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:36:50 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:36:50 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:36:50 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:36:50 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:36:51 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:36:51 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:36:56 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:36:56 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:36:56 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:36:56 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:36:56 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:36:56 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:37:00 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:37:00 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 05:37:49 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:37:49 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:37:50 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:37:50 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:37:50 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:37:50 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:37:50 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 05:37:50 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 05:37:56 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 05:37:56 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 05:37:56 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 05:37:56 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 05:37:56 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 05:37:56 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 05:38:01 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 05:38:01 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Element not found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Element not found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Element not found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 06:02:47 PM - mySeleniumDriver - INFO: Element not found
+05/31/2020 06:03:26 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 06:03:26 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 06:03:26 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 06:03:26 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 06:03:26 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 06:03:27 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 06:03:27 PM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+05/31/2020 06:03:27 PM - mySeleniumDriver - INFO: Element Found
+05/31/2020 06:03:32 PM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+05/31/2020 06:03:33 PM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+05/31/2020 06:03:33 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+05/31/2020 06:03:33 PM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+05/31/2020 06:03:33 PM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+05/31/2020 06:03:33 PM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+05/31/2020 06:03:36 PM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+05/31/2020 06:03:36 PM - mySeleniumDriver - INFO: Element Found
+06/09/2020 10:59:35 AM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Element Found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+06/09/2020 10:59:36 AM - mySeleniumDriver - INFO: Element Found
+06/09/2020 10:59:42 AM - mySeleniumDriver - INFO: Element Found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+06/09/2020 10:59:42 AM - mySeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+06/09/2020 10:59:42 AM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+06/09/2020 10:59:42 AM - mySeleniumDriver - INFO: Sent data on element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+06/09/2020 10:59:42 AM - mySeleniumDriver - INFO: Element Found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+06/09/2020 10:59:42 AM - mySeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+06/09/2020 10:59:47 AM - mySeleniumDriver - INFO: Element Found with locator: //div[@class='user-avatar has-chat-status default text'] and  locatorType: xpath
+06/09/2020 10:59:47 AM - mySeleniumDriver - INFO: Element Found
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Element not found with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] and  locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email, e.g. bilbo@example.com'] locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Element not found with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] and  locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Cannot send data on the element with locator: //div[@class='form-group']//input[@placeholder='Password, e.g. •••••••••••••••••'] locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Element not found with locator: //button[contains(text(),'LOGIN')] and  locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(),'LOGIN')] locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Element not found with locator: //p[contains(text(),'Invalid username or password')] and  locatorType: xpath
+06/10/2020 05:14:19 PM - mySeleniumDriver - INFO: Element not found
